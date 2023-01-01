@@ -1,0 +1,18 @@
+.info-background{
+    background-color: antiquewhite;
+}
+
+.tv-color{
+    background-color: #FEEAE9;
+}
+/* .categories
+{
+    width: 100px;
+} */
+
+.butn-color{
+    background-color: #FF2679;
+    color: #FEEAE9;
+    padding: 10px 25px;
+    
+}
